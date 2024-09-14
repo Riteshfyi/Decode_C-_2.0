@@ -11,3 +11,4 @@ int main(){
     int Z = (x * y) % m;
     cout << "Output is: " << Z;
 }
+
